@@ -6,7 +6,7 @@ I'm passionate about technology, coding, and building innovative solutions. I lo
 ### 🌱 Currently Learning  
 I'm currently diving deep into **Artificial Intelligence (AI), Machine Learning (ML), and more** to expand my knowledge and enhance my problem-solving skills. Always eager to learn new technologies and stay updated with the latest trends in the tech world.  
 
-### 💞️ Collaboration & Projects  
+### 🚀 Collaboration & Projects  
 I enjoy working on open-source projects, contributing to the community, and collaborating with like-minded developers. If you have an exciting project or idea, feel free to reach out!  
 
 ### 📫 Let's Connect  
