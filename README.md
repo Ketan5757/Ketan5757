@@ -1,4 +1,4 @@
-# 👋 Hi, I am Ketan!!
+# 👋 Hi, I am Ketan!
 
 ### 👀 About Me  
 I'm passionate about technology, coding, and building innovative solutions. I love exploring new programming languages, frameworks, and tools that help solve real-world problems.  
