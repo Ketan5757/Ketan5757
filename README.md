@@ -23,22 +23,50 @@ I love exploring cutting-edge technologies and always seek innovative ways to so
 
 ### **Languages**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=java" /><br>Java</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br>C++</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=javascript" /><br>JavaScript</td>
+    </tr>
+  </table>
 </div>  
 
 ### **Frameworks & Libraries**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=express" /><br>Express.js</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br>Tailwind CSS</td>
+    </tr>
+  </table>
 </div>  
 
 ### **Databases & Cloud**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,gcp" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /><br>MongoDB</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=firebase" /><br>Firebase</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=gcp" /><br>Google Cloud</td>
+    </tr>
+  </table>
 </div>  
 
 ### **Tools & Platforms**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker" /><br>Docker</td>
+    </tr>
+  </table>
 </div>  
 
 ---
@@ -52,6 +80,9 @@ I love exploring cutting-edge technologies and always seek innovative ways to so
 ---
 
 ## 🚀 **Let's Connect & Build Together!**  
-I'm always open to collaborating on exciting projects, discussing innovative ideas, and learning from like-minded individuals.  
-If you're passionate about **technology, AI, or open-source development**, feel free to reach out! Let's create something amazing together.  
+Technology is constantly evolving, and I believe in **lifelong learning** and **collaborative growth**.  
+I’m always open to discussing **new ideas, collaborating on exciting projects, or sharing knowledge**.  
+
+If you're passionate about **AI, web development, or open-source contributions**, feel free to reach out!  
+Let’s innovate, build, and create a better future together.  
 
