@@ -1,31 +1,31 @@
 ## **👋 Hi, I am Ketan!**  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="Coding GIF" />
 </div>  
 
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub!+🚀;+I am+Ketan+Darekar!;">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub!+🚀;+I'm+Ketan+Darekar!;">
 </h1>  
 
-<h3 align="center">💡 Passionate about technology, AI, and innovative solutions! 🚀</h3>  
+<h3 align="center">💡 Passionate about technology, AI, and software development! 🚀</h3>  
 
 ---
 
-<img align="right" alt="Coding" width="370" height="270" src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif">  
+<img align="right" alt="Coding" width="400" height="270" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">  
 
 ### 👀 About Me  
-🔹 Passionate about **technology, coding, and building innovative solutions**.  
-🔹 Love **exploring new programming languages, frameworks, and tools**.  
-🔹 Always eager to learn and stay updated with the latest trends in the tech world.  
+🔹 Passionate about **technology, software development, and AI-driven solutions**.  
+🔹 Constantly exploring **new programming languages, frameworks, and tools**.  
+🔹 Dedicated to writing **clean, efficient, and scalable code**.  
 
 ### 🌱 Currently Learning  
-📌 Exploring **Artificial Intelligence (AI) and Machine Learning (ML)** to enhance my problem-solving skills.  
-📌 Hands-on experience with **Web Development, Data Science, and Cloud Computing**.  
+📌 Advancing my knowledge in **Artificial Intelligence (AI) & Machine Learning (ML)**.  
+📌 Exploring **Cloud Computing and Full-Stack Development**.  
 
 ### 🚀 Collaboration & Projects  
-🔹 Love working on **open-source projects** and contributing to the tech community.  
-🔹 Open to **collaborations** and **exciting project ideas** – feel free to reach out!  
+🔹 Enthusiastic about **open-source projects and contributing to the community**.  
+🔹 Always open to **collaborating on innovative ideas**.  
 
 ---
 
@@ -46,14 +46,24 @@
 
 ## **⚒️ Technologies & Tools**  
 
-### **Languages**  
+### **Programming Languages**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=Python,Cpp,Java,Html,Css,Javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript" />
 </div>  
 
-### **Frameworks & Tools**  
+### **Frameworks & Libraries**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=React,Nodejs,MongoDB,Git,Vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" />
+</div>  
+
+### **Databases & Cloud**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,gcp" />
+</div>  
+
+### **Tools & Platforms**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
 </div>  
 
 ---
@@ -68,7 +78,7 @@
 
 ---
 
-## **🌟 Latest GitHub Repositories**
+## **🌟 GitHub Achievements**
 <div align="center">
   <img width="600px" src="https://github-profile-trophy.vercel.app/?username=Ketan5757&theme=algolia&no-frame=false&margin-w=20&row=1&column=6" alt="GitHub Trophies" />
 </div>
