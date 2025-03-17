@@ -71,14 +71,6 @@ I love exploring cutting-edge technologies and always seek innovative ways to so
 
 ---
 
-## **📊 GitHub Stats**  
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Ketan5757&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ketan5757&show_icons=true&theme=react&border_radius=10" alt="GitHub stats" />
-</div>  
-
----
-
 ## 🚀 **Let's Connect & Build Together!**  
 Technology is constantly evolving, and I believe in **lifelong learning** and **collaborative growth**.  
 I’m always open to discussing **new ideas, collaborating on exciting projects, or sharing knowledge**.  
